@@ -15,5 +15,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Changing the text!" />
+        android:text="Changing the text again!" />
 </RelativeLayout>
